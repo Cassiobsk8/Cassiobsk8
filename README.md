@@ -2,6 +2,38 @@
 **Desenvolvedor Java • 3+ anos de experiencia em PDV • 8+ anos de experiência**  
 *Java Developer • POS Specialist • 8+ years experience*
 
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cassiokf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+</p>
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cassiobsk8&"  />
+</div>
+
+###
+
+
+<!-- Badges confiáveis -->
+![Followers](https://img.shields.io/github/followers/Cassiobsk8?label=Followers&style=social)
+![Repos](https://img.shields.io/github/repo-size/Cassiobsk8/Industrial_Renewal)
+
+![Top language](https://img.shields.io/github/languages/top/Cassiobsk8/Industrial_Renewal)
+
+<!-- Top 3 languages -->
+![Languages](https://img.shields.io/badge/dynamic/json?label=Languages&query=$.languages_list&url=https://raw.githubusercontent.com/Cassiobsk8/Cassiobsk8/main/stats.json&color=informational)
+
 ---
 
 ### Sobre / About
@@ -35,14 +67,3 @@ Sou desenvolvedor com **8+ anos** de experiência em software e **3 anos** focad
 3. **FonteVariavel** — utilitário/algoritmo; código limpo e cobertura de testes.  
 
 ---
-
-<!-- Badges confiáveis -->
-![Followers](https://img.shields.io/github/followers/Cassiobsk8?label=Followers&style=social)
-![Repos](https://img.shields.io/github/repo-size/Cassiobsk8/Industrial_Renewal)
-
-![Top language](https://img.shields.io/github/languages/top/Cassiobsk8/Industrial_Renewal)
-
-<!-- Top 3 languages -->
-![Languages](https://img.shields.io/badge/dynamic/json?label=Languages&query=$.languages_list&url=https://raw.githubusercontent.com/Cassiobsk8/Cassiobsk8/main/stats.json&color=informational)
-
-<!-- Imagem de stats local (caso você gere e commite via Action) -->
