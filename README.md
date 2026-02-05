@@ -61,7 +61,6 @@ Sou desenvolvedor com **8+ anos** de experiência em software e **3 anos** focad
 ---
 
 ### Projetos em destaque / Featured Projects
-**Repositórios fixados sugeridos / Suggested pinned repos**  
 1. **Industrial_Renewal** — backend e integrações; arquitetura, testes e deploy.  
 2. **AutoHome** — automação/IoT; integração com sensores e protocolos seriais.  
 3. **FonteVariavel** — utilitário/algoritmo; código limpo e cobertura de testes.  
